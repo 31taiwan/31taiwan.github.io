@@ -6,21 +6,20 @@ comments:true
 ---
 
 
-### 찬양
+## 찬양
 
 17' 여름 남주 선교의 주제는 "**할렐루야 哈利路亞**  " 입니다. 
 
     할렐루הַלְּלוּ(hallelu) (너희들은 찬양하라) + 야יָהּ(Yah) (여호와) 
      => 너희들은 여호와를 찬양하라
-찬양이 가득한 여름 남주선교! , 찬양을 통해 하나님을 전파, 언어가 통하지 않고 어려움이 있지만, 찬양이라는 매개체를 통해 하나님을 찬양하고 증거하고. 목소리로 악기로 춤으로 찬양합니다. 모두가 함께 할 수 있습니다 .
+     
+찬양이 가득한 여름 남주 선교! , 찬양을 통해 하나님을 전파, 언어가 통하지 않고 어려움이 있지만, 찬양이라는 매개체를 통해 하나님을 찬양하고 증거하고. 목소리로 악기로 춤으로 찬양 해요!
 
 
-####  남주 찬양 리스트
+###  남주 찬양 리스트
 
----
 
-   1 [내 마음을 가득 채운](#track_1) <br />
-    2 [주님의 사랑](#track_2) <br />
+   1 [내 마음을 가득 채운](#track_1) <br />     2 [주님의 사랑](#track_2) <br />
     3 [Wake (날세우시네)](#track_3) <br />
     4 [Alive (살아계신주)](#track_4) <br />
     5 [하늘 위에 주님 밖에](#track_5) <br />
@@ -42,7 +41,7 @@ comments:true
     <source src="../music/track_1.mp3" type="audio/mpeg">
 </audio>
 
-<ul class="tab_tit">
+<ul class="tab_tit" id="t1">
     <li><a href="#tab_1">한국어</a></li>
     <li><a href="#tab_2">중국어</a></li>
     <li><a href="#tab_3">병음</a></li>
@@ -122,7 +121,7 @@ Chrous. <br />
     <source src="../music/track_2.mp3" type="audio/mpeg">
 </audio>
 
-<ul class="tab_tit">
+<ul class="tab_tit" id="t2">
     <li><a href="#t2_tab_1">한국어</a></li>
     <li><a href="#t2_tab_2">중국어</a></li>
     <li><a href="#t2_tab_3">병음</a></li>
