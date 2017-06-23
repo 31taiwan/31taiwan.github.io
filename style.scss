@@ -14,7 +14,7 @@
 /**************/
 
 html {
-  font-size: 100%;
+  font-size:10px;
 }
 
 body {
@@ -227,7 +227,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 2.0rem;
 
   @include mobile {
     float: none;
@@ -237,11 +237,14 @@ nav {
   }
 
   a {
+    font:0/0 a;
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+
+    i {font-size:2.0rem;}
 
     @include mobile {
       margin: 0 10px;
