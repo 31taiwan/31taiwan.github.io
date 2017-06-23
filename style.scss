@@ -314,18 +314,14 @@ footer {
 			transition:0.3s;
 		}
 		/* Style the tab content */
-		.tab_content li {
+		.tab_content {
           list-style: none;
 			display: none;
-			background-color:rgb(0,154,200);
-			padding: 6px 12px;
-			color:#fff;
 		}
-		.tab_tit li.current{
-			background-color: rgb(0,154,200);
+		.tab_tit li.current a{
 			color: #222;
 		}
-		.tab_content li.current {
+		.tab_content.current {
 			display: block;
 		}
 
