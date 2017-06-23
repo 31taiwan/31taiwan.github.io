@@ -40,7 +40,7 @@ comments:true
 </ul>
 
 <ul class="tab_content">
-    <li id="tab1">
+    <li id="tab1" class="current">
         1 내 마음을 가득 채운 주 향한 찬양과 사랑 <br />
         어떻게 표현할 수 있나 <br />
         수 많은 찬양들로 그 맘 표현할 길 없어 <br />
