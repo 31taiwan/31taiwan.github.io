@@ -24,6 +24,7 @@ body {
 }
 
 body:before {
+  background: #2e9fff;
   background-image: linear-gradient(to top right, #1775c4 0%, rgba(23, 117, 196, 0) 60%);
   background-size: cover;
   content: '';
