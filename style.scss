@@ -299,6 +299,34 @@ footer {
   text-align: center;
 }
 
+		.tab_tit li {
+			float: left;
+		}
+		/* Style the links inside the list items */
+		.tab_tit li a {
+			display: inline-block;
+			color: #000;
+			text-align: center;
+			text-decoration: none;
+			padding: 14px 16px;
+			font-size: 17px;
+			transition:0.3s;
+		}
+		/* Style the tab content */
+		.tab_content {
+			display: none;
+			background-color:rgb(0,154,200);
+			padding: 6px 12px;
+			color:#fff;
+		}
+		.tab_tit li.current{
+			background-color: rgb(0,154,200);
+			color: #222;
+		}
+		.tab_content.current {
+			display: block;
+		}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
