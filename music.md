@@ -10,26 +10,27 @@ comments:true
 
 17'여름 남주의 주제는 **할렐루야 哈利路亞** 입니다. 
 아래는 남주에서 함께 부를 찬양입니다. 
+
+    1 내 마음을 가득 채운
+    2 주님의 사랑
+    3 Wake (날세우시네)
+    4 Alive (살아계신주)
+    5 하늘 위에 주님 밖에
+    6 지금은 엘리야 때처럼
+    7 나같은 죄인 살리신
+    8 예수 나의 치료자
+    9 부르신 곳에서
+    10 예수 아름다우신
+    11 How great is our GOD (위대하신주)  
+
 ---
-
-    1.내 마음을 가득 채운
-    2.주님의 사랑
-    3. Wake (날세우시네)
-    4. Alive (살아계신주)
-    5. 하늘 위에 주님 밖에
-    6. 지금은 엘리야 때처럼
-    7. 나같은 죄인 살리신
-    8. 예수 나의 치료자
-    9. 부르신 곳에서
-    10. 예수 아름다우신
-    11. How great is our GOD (위대하신주)  
-
----
-
 
 ##### 내 마음을 가득채운
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329507138%3Fsecret_token%3Ds-phH6Q&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+ <audio controls>
+  <source src="../music/track_1.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio> 
 
 ###### 한국어
 
@@ -98,7 +99,3 @@ Bridge.
 깐 시에 께이 워 넝 짜이 뺘오 빠이 주 띠 언 아이 띠 신 이 티앤 
 깐 시에 께이 워 넝 짜이 뺘오 빠이 띠 짠 양
 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
