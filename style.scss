@@ -323,8 +323,9 @@ footer {
         .tab_tit li a.on {font-weight:bold;color:#268BD2;}
 		/* Style the tab content */
 		.tab_content {
+          line-height: 140%;
           list-style: none;
-          padding:30px 0;
+          padding:0 0 30px;
 		}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

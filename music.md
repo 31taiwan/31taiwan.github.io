@@ -11,8 +11,8 @@ comments:true
 17'여름 남주의 주제는 **할렐루야 哈利路亞** 입니다. 
 아래는 남주에서 함께 부를 찬양입니다. 
 
-    1 내 마음을 가득 채운
-    2 주님의 사랑
+    1 [내 마음을 가득 채운](#track_1)
+    2 [주님의 사랑](#track_2)
     3 Wake (날세우시네)
     4 Alive (살아계신주)
     5 하늘 위에 주님 밖에
@@ -24,6 +24,8 @@ comments:true
     11 How great is our GOD (위대하신주)  
 
 ---
+
+<div id="track_1">
 
 ##### 내 마음을 가득채운
 
@@ -70,15 +72,17 @@ Chrous. <br />
  感谢给我能再表白的赞扬 <br />
  </div>
  <div id="tab_3" class="tab_content" style="display:none"> 
- 1 wǒ dí xīn líng chōng mǎn duì zhǔ dí zàn měi hé ài ,   wú fǎ yòng yán yǔ biǎo dá <br /> 
- suī rán yǒu hěn duō zàn měi ,   yě bù néng biǎo dá wǒ dí xīn ,   suǒ yǐ wǒ zài cì gào bái . <br /> 
+ 1 wǒ dí xīn líng chōng mǎn duì zhǔ dí zàn měi hé ài , <br />  
+  wú fǎ yòng yán yǔ biǎo dá <br /> 
+ suī rán yǒu hěn duō zàn měi ,   <br />
+ yě bù néng biǎo dá wǒ dí xīn ,  <br /> suǒ yǐ wǒ zài cì gào bái . <br /> 
         
- 2 yǒu hěn duō yīn lè hé zàn měi dū xiàn gěi zhǔ ,   dàn shì wǒ yuàn yì zài cì gào bái . <br />
- zhǔ ā ,   nín shì wǒ dí ài ,   wǒ dí yī qiē ,   yīn cǐ wǒ zàn měi zhǔ . <br />
+ 2 yǒu hěn duō yīn lè hé zàn měi dū xiàn gěi zhǔ ,  <br /> dàn shì wǒ yuàn yì zài cì gào bái . <br />
+ zhǔ ā ,  <br /> nín shì wǒ dí ài ,  <br /> wǒ dí yī qiē ,<br />   yīn cǐ wǒ zàn měi zhǔ . <br />
         
  Chrous. <br />
- zhǔ ā ,   wǒ ài nín ,   yòng wǒ dí yī qiē lái zàn měi nín . <br /> 
- ó ,   zhǔ ,   wǒ ài nín ,   wǒ zàn měi zhǔ . <br />  
+ zhǔ ā ,   wǒ ài nín , <br />  yòng wǒ dí yī qiē lái zàn měi nín . <br /> 
+ ó ,   zhǔ ,   wǒ ài nín , <br />  wǒ zàn měi zhǔ . <br />  
         
  Bridge. <br />
  gǎn xiè gěi wǒ néng zài biǎo bái zhǔ dí ēn ài dí xīn yī tiān <br /> 
@@ -99,4 +103,77 @@ Chrous. <br />
  깐 시에 께이 워 넝 짜이 뺘오 빠이 주 띠 언 아이 띠 신 이 티앤 <br />
  깐 시에 께이 워 넝 짜이 뺘오 빠이 띠 짠 양 <br />
  </div>
+
+</div>
+<div id="track_2">
+
+##### 주님의 사랑 上帝的恩爱
+
+<audio controls preload="auto" style="width:100%;">
+    <source src="../music/track_2.acc" type="audio/mp4">
+    <source src="../music/track_2.mp3" type="audio/mpeg">
+</audio>
+
+<ul class="tab_tit">
+    <li><a href="#t2_tab_1">한국어</a></li>
+    <li><a href="#t2_tab_2">중국어</a></li>
+    <li><a href="#t2_tab_3">병음</a></li>
+    <li><a href="#t2_tab_4">독음</a></li>
+</ul>
+
+
+<div id="t2_tab_1" class="tab_content" style="display:block">
+눈부신 햇살 저 하늘 너머 내게 주어진 <br />
+주님의 사랑 깊어져 가네 나의 마음에 <br /><br />
+
+prechrous. <br />
+나 얻었네 변함없는 그 사랑 <br />
+내 안에 기쁨의 노래 멈출 수가 없네  <br /><br />
+
+chrous. <br />
+주님의 사랑 바람에 실리듯 내게 찾아와 <br />
+그 사랑의 향기가 내 맘 가득해 <br />
+주님의 은혜 굽이쳐 흐르며 내게 다가와 <br />
+그 사랑의 열매로 내 맘 채우네 <br />
+ </div>
+ 
+ <div  id="t2_tab_2" class="tab_content" style="display:none">
+耀眼的阳光,在天空之外给我的 <br />
+上帝的恩爱，越来越深，在我的心里 <br /><br />
+
+我收到了，不变的那恩爱 <br />
+我心里欢乐的歌曲，无法停止 <br /><br />
+
+上帝的恩爱，像风一样来找我 <br />
+那恩爱的香气，我的心里都满满的 <br />
+上帝的恩典，像水一样来找我 <br />
+那恩爱的果实，我的心里都满满的 <br />
+ </div>
+ <div id="t2_tab_3" class="tab_content" style="display:none"> 
+yào yǎn dí yáng guāng , zài tiān kōng zhī wài gěi wǒ dí <br />
+shàng dì dí ēn ài ， yuè lái yuè shēn ， zài wǒ dí xīn lǐ  <br /><br />
+
+wǒ shōu dào liǎo ， bù biàn dí nà ēn ài  <br />
+wǒ xīn lǐ huān lè dí gē qū ， wú fǎ tíng zhǐ  <br /><br />
+
+shàng dì dí ēn ài ， xiàng fēng yī yàng lái zhǎo wǒ  <br />
+nà ēn ài dí xiāng qì ， wǒ dí xīn lǐ dū mǎn mǎn dí  <br />
+shàng dì dí ēn diǎn ， xiàng shuǐ yī yàng lái zhǎo wǒ  <br />
+nà ēn ài dí guǒ shí ， wǒ dí xīn lǐ dū mǎn mǎn dí <br />
+ 
+ </div>
+ <div id="t2_tab_4"  class="tab_content" style="display:none">
+야오 얜 띠 양 꾸앙 , 짜이 티앤 콩 즈 와이 께이 워 띠  <br />
+상 띠 띠 언 아이 ， 위에 라이 위에 션 ， 짜이 워 띠 신 리  <br />
+워 셔우 따오 랴오 ， 뿌 삐앤 띠 나 언 아이 <br />
+워 신 리 후안 러 띠 꺼 취 ， 우 파 팅 즈 <br /><br />
+
+상 띠 띠 언 아이 ， 샹 펑 이 양 라이 자오 워 <br />
+나 언 아이 띠 샹 치 ， 워 띠 신 리 뚜 만 만 띠 <br />
+상 띠 띠 언 띠앤 ， 샹 쉐이 이 양 라이 자오 워 <br />
+나 언 아이 띠 꾸어 스 ， 워 띠 신 리 뚜 만 만 띠 <br />
+ 
+ </div>
+
+</div>
 
