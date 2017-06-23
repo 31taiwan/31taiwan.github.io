@@ -301,6 +301,7 @@ footer {
 
 		.tab_tit li {
 			float: left;
+          list-style: none;
 		}
 		/* Style the links inside the list items */
 		.tab_tit li a {
@@ -314,6 +315,7 @@ footer {
 		}
 		/* Style the tab content */
 		.tab_content li {
+          list-style: none;
 			display: none;
 			background-color:rgb(0,154,200);
 			padding: 6px 12px;

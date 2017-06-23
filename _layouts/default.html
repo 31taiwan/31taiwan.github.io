@@ -58,7 +58,7 @@
 			$('.tab_tit li').click(function() {
 				var activeTab = $(this).attr('data-tab');
 				$('.tab_tit li').removeClass('current');
-				$('.tab_content li').removeClass('current');
+				$('.tab_content').removeClass('current');
 				$(this).addClass('current');
 				$('#' + activeTab).addClass('current');
 			})
