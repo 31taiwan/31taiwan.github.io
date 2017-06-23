@@ -316,13 +316,9 @@ footer {
 		/* Style the tab content */
 		.tab_content {
           list-style: none;
-			display: none;
 		}
 		.tab_tit li.current a{
 			color: #222;
-		}
-		.tab_content.current {
-			display: block;
 		}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
