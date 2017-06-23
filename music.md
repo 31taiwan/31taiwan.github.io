@@ -33,14 +33,14 @@ comments:true
 </audio>
 
 <ul class="tab_tit">
-    <li><a href="">한국어</li>
-    <li>중국어</li>
-    <li>병음</li>
-    <li>독음</li>
+    <li class="current" data-tab="tab1"><a href="#">한국어</a></li>
+    <li data-tab="tab2"><a href="">중국어</a></li>
+    <li data-tab="tab3"><a href="">병음</a></li>
+    <li data-tab="tab4"><a href="">독음</a></li>
 </ul>
 
 <ul class="tab_content">
-    <li>
+    <li id="tab1">
         1 내 마음을 가득 채운 주 향한 찬양과 사랑 <br />
         어떻게 표현할 수 있나 <br />
         수 많은 찬양들로 그 맘 표현할 길 없어 <br />
@@ -53,7 +53,7 @@ comments:true
         주 사랑해요 온 맘 다하여 <br />
         말로 다 할 수 없어 <br />
     </li>
-    <li>
+    <li  id="tab2" >
         1 我的心灵充满对主的赞美和爱, 无法用言语表达 <br />
         虽然有很多赞美, 也不能表达我的心, 所以我再次告白. <br />
          
@@ -68,7 +68,7 @@ comments:true
         感谢给我能再表白主的恩爱的新一天 <br />
         感谢给我能再表白的赞扬 <br />
     </li>
-    <li>
+    <li id="tab3" > 
         1 wǒ dí xīn líng chōng mǎn duì zhǔ dí zàn měi hé ài ,   wú fǎ yòng yán yǔ biǎo dá <br /> 
         suī rán yǒu hěn duō zàn měi ,   yě bù néng biǎo dá wǒ dí xīn ,   suǒ yǐ wǒ zài cì gào bái . <br /> 
         
@@ -83,7 +83,7 @@ comments:true
         gǎn xiè gěi wǒ néng zài biǎo bái zhǔ dí ēn ài dí xīn yī tiān <br /> 
         gǎn xiè gěi wǒ néng zài biǎo bái dí zàn yáng <br />
     </li>
-    <li>
+    <li id="tab4" >
         1 워 띠 신 링 총 만 뛔이 주 띠 짠 메이 허 아이 ,   우 파 용 얜 위 뺘오 따 <br /> 
         쒜이 란 요우 헌 뚜어 짠 메이 ,   예 뿌 넝 뺘오 따 워 띠 신 ,   쑤어 이 워 짜이 츠 까오 빠이 . <br />
         

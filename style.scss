@@ -313,7 +313,7 @@ footer {
 			transition:0.3s;
 		}
 		/* Style the tab content */
-		.tab_content {
+		.tab_content li {
 			display: none;
 			background-color:rgb(0,154,200);
 			padding: 6px 12px;
@@ -323,7 +323,7 @@ footer {
 			background-color: rgb(0,154,200);
 			color: #222;
 		}
-		.tab_content.current {
+		.tab_content li.current {
 			display: block;
 		}
 
