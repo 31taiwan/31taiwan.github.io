@@ -23,6 +23,17 @@ body {
   color: $darkGray;
 }
 
+body:before {
+  background-image: linear-gradient(to top right, #1775c4 0%, rgba(23, 117, 196, 0) 60%);
+  background-size: cover;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
