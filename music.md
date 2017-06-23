@@ -2,6 +2,8 @@
 layout: page
 title: Music
 permalink: /music/
+comments:true
+
 ---
 
 Some information about you!
