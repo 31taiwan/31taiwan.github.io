@@ -100,10 +100,3 @@ Chrous. <br />
  깐 시에 께이 워 넝 짜이 뺘오 빠이 띠 짠 양 <br />
  </div>
 
-<script src="http://image-glb.qpyou.cn/markup/img/common/guide/jquery.min.1.12.0.js"></script>
-<script type="text/javascript" src="http://image-glb.qpyou.cn/markup/img/common/guide/ui_guide2.js"></script>
-<script type="text/javascript">
-  $(function() {
-      	$('.tab_tit').tab({});
-  });
-</script>
