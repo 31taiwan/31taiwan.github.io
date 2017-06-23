@@ -27,7 +27,11 @@ comments:true
 
 ##### 내 마음을 가득채운
 
-<audio controls preload="auto" style="width:100%;"><source src="../music/track_1.mp3"></audio>
+<audio controls preload="auto" style="width:100%;">
+    <source src="../music/track_1.acc" type="audio/mp4">
+    <source src="../music/track_1.mp3" type="audio/mpeg">
+</audio>
+
 ###### 한국어
 
 1.내 마음을 가득 채운 주 향한 찬양과 사랑 어떻게 표현할 수 있나 <br />
