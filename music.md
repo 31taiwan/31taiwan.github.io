@@ -33,14 +33,14 @@ comments:true
 </audio>
 
 <ul class="tab_tit">
-    <li class="current" data-tab="tab1"><a href="#">한국어</a></li>
-    <li data-tab="tab2"><a href="">중국어</a></li>
-    <li data-tab="tab3"><a href="">병음</a></li>
-    <li data-tab="tab4"><a href="">독음</a></li>
+    <li><a href="#tab_1">한국어</a></li>
+    <li><a href="#tab_2">중국어</a></li>
+    <li><a href="#tab_3">병음</a></li>
+    <li><a href="#tab_4">독음</a></li>
 </ul>
 
 <ul>
-    <li id="tab1" class="tab_content current">
+    <li id="tab1" class="tab_content">
         1 내 마음을 가득 채운 주 향한 찬양과 사랑 <br />
         어떻게 표현할 수 있나 <br />
         수 많은 찬양들로 그 맘 표현할 길 없어 <br />
