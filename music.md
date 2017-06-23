@@ -117,6 +117,8 @@ Chrous. <br />
  </div>
 
 </div>
+
+
 <div id="track_2">
 
 <h4>주님의 사랑 上帝的恩爱</h4>
@@ -189,3 +191,170 @@ nà ēn ài dí guǒ shí ， wǒ dí xīn lǐ dū mǎn mǎn dí <br />
 
 </div>
 
+<div id="t2_tab_1" class="tab_content" style="display:block">
+눈부신 햇살 저 하늘 너머 내게 주어진 <br />
+주님의 사랑 깊어져 가네 나의 마음에 <br /><br />
+
+prechrous. <br />
+나 얻었네 변함없는 그 사랑 <br />
+내 안에 기쁨의 노래 멈출 수가 없네  <br /><br />
+
+chrous. <br />
+주님의 사랑 바람에 실리듯 내게 찾아와 <br />
+그 사랑의 향기가 내 맘 가득해 <br /><br />
+주님의 은혜 굽이쳐 흐르며 내게 다가와 <br />
+그 사랑의 열매로 내 맘 채우네 <br />
+ </div>
+ 
+ <div  id="t2_tab_2" class="tab_content" style="display:none">
+耀眼的阳光,在天空之外给我的 <br />
+上帝的恩爱，越来越深，在我的心里 <br /><br />
+
+我收到了，不变的那恩爱 <br />
+我心里欢乐的歌曲，无法停止 <br /><br />
+
+上帝的恩爱，像风一样来找我 <br />
+那恩爱的香气，我的心里都满满的 <br /><br />
+上帝的恩典，像水一样来找我 <br />
+那恩爱的果实，我的心里都满满的 <br />
+ </div>
+ <div id="t2_tab_3" class="tab_content" style="display:none"> 
+yào yǎn dí yáng guāng , zài tiān kōng zhī wài gěi wǒ dí <br />
+shàng dì dí ēn ài ， yuè lái yuè shēn ， zài wǒ dí xīn lǐ  <br /><br />
+
+wǒ shōu dào liǎo ， bù biàn dí nà ēn ài  <br />
+wǒ xīn lǐ huān lè dí gē qū ， wú fǎ tíng zhǐ  <br /><br />
+
+shàng dì dí ēn ài ， xiàng fēng yī yàng lái zhǎo wǒ  <br />
+nà ēn ài dí xiāng qì ， wǒ dí xīn lǐ dū mǎn mǎn dí  <br /><br />
+shàng dì dí ēn diǎn ， xiàng shuǐ yī yàng lái zhǎo wǒ  <br />
+nà ēn ài dí guǒ shí ， wǒ dí xīn lǐ dū mǎn mǎn dí <br />
+ 
+ </div>
+ <div id="t2_tab_4"  class="tab_content" style="display:none">
+야오 얜 띠 양 꾸앙 , 짜이 티앤 콩 즈 와이 께이 워 띠  <br />
+상 띠 띠 언 아이 ， 위에 라이 위에 션 ， 짜이 워 띠 신 리  <br /><br />
+워 셔우 따오 랴오 ， 뿌 삐앤 띠 나 언 아이 <br />
+워 신 리 후안 러 띠 꺼 취 ， 우 파 팅 즈 <br /><br />
+
+상 띠 띠 언 아이 ， 샹 펑 이 양 라이 자오 워 <br />
+나 언 아이 띠 샹 치 ， 워 띠 신 리 뚜 만 만 띠 <br /><br />
+상 띠 띠 언 띠앤 ， 샹 쉐이 이 양 라이 자오 워 <br />
+나 언 아이 띠 꾸어 스 ， 워 띠 신 리 뚜 만 만 띠 <br />
+ 
+ </div>
+
+</div>
+
+<div id="track_3">
+
+<h4>Alive(살아계신주) 使我得生命 </h4>
+
+<audio controls preload="auto" style="width:100%;">
+    <source src="../music/track_3.acc" type="audio/mp4">
+    <source src="../music/track_3.mp3" type="audio/mpeg">
+</audio>
+
+<ul class="tab_tit" id="t3">
+    <li><a href="#t3_tab_1">한국어</a></li>
+    <li><a href="#t3_tab_2">중국어</a></li>
+    <li><a href="#t3_tab_3">병음</a></li>
+    <li><a href="#t3_tab_4">독음</a></li>
+</ul>
+
+
+<div id="t3_tab_1" class="tab_content" style="display:block">
+[Verse 1] <br />
+나의 맘 무너질 때에 주님 나를 일으키셨네 <br />
+새롭게 난 다시 살고 영원히 주님 안에 있네 <br /><br />
+
+주님의 크신 사랑은 말로 다 표현할 수 없네 <br />
+끝없는 은혜 안에서 영원히 주님만 따르리 <br /> <br />
+
+[Pre-Chorus] <br />
+(오) 주는 주는 주는 내 자유 <br />
+주를 높이세  주를 높여 <br />
+주의 사랑 사랑 영원하리 오오오 <br /><br />
+
+[Chorus] <br />
+살아계신 주님 내 안에 계시네 <br />
+주는 내 전부 자유케하시네 <br /><br />
+
+[Verse 2] <br />
+어둠의 밤 길 지날 때 주 사랑 날 비추시네 <br />
+죄악의 사슬 끊으려 그의 아들 보내 주셨네 <br /><br />
+
+모든 것 사라져가도 오직 주의 얼굴 구하리 <br />
+주님의 뜻 이뤄질 때에 그 나라 곧 임하시네 <br />
+
+
+ </div>
+ 
+ <div  id="t3_tab_2" class="tab_content" style="display:none">
+我破碎失喪的心 你找到我 使我屬於你 <br />
+從灰燼中我得生命 我在救主手中得安息 <br />
+說不盡你奇妙作為 一生年日主我要跟隨 <br />
+我定睛瞻仰你榮美 自由活在你無盡恩典 <br /> <br />
+
+'Cause You are, You are, You are my freedom  <br />
+我高舉你名 高舉你名 <br />
+Your love, Your love Your love永不止息 Oh oh oh <br /><br />
+
+你使我得生命 無人能取代你 <br />
+你滿足我所需 你愛釋放我心 <br /><br />
+
+在最黑暗絕望時刻 你的愛如明光照射 <br />
+神的兒子來到世界 你斷開我身上的鎖鍊 <br />
+世上一切都會過去 我只想要看見你榮面 <br />
+我渴望你旨意成全 直到你國在地如在天 <br /><br />
+
+'Cause You are, You are, You are my freedom <br />
+我高舉你名 <br />
+ 
+ </div>
+ <div id="t3_tab_3" class="tab_content" style="display:none"> 
+wǒ pò suì shī sāng dí xīn   nǐ zhǎo dào wǒ   shǐ wǒ shǔ yú nǐ  <br />
+cóng huī jìn zhōng wǒ dé shēng mìng   wǒ zài jiù zhǔ shǒu zhōng dé ān xī  <br />
+shuō bù jìn nǐ qí miào zuò wéi   yī shēng nián rì zhǔ wǒ yào gēn suí  <br />
+wǒ dìng jīng zhān yǎng nǐ róng měi   zì yóu huó zài nǐ wú jìn ēn diǎn  <br /><br />
+
+' Cause   You   are ,   You   are ,   You   are   my   freedom   <br />
+wǒ gāo jǔ nǐ míng   gāo jǔ nǐ míng <br />
+Your   love ,   Your   love   Your   love yǒng bù zhǐ xī   Oh   oh   oh  <br /><br />
+
+nǐ shǐ wǒ dé shēng mìng   wú rén néng qǔ dài nǐ <br />
+nǐ mǎn zú wǒ suǒ xū   nǐ ài shì fàng wǒ xīn <br /><br />
+
+zài zuì hēi àn jué wàng shí kè   nǐ dí ài rú míng guāng zhào shè  <br />
+shén dí ér zǐ lái dào shì jiè   nǐ duàn kāi wǒ shēn shàng dí suǒ liàn  <br />
+shì shàng yī qiē dū huì guò qù   wǒ zhī xiǎng yào kàn jiàn nǐ róng miàn <br />
+wǒ kě wàng nǐ zhǐ yì chéng quán   zhí dào nǐ guó zài dì rú zài tiān <br /><br />
+
+' Cause   You   are ,   You   are ,   You   are   my   freedom <br />
+wǒ gāo jǔ nǐ míng <br />
+ 
+ 
+ </div>
+ <div id="t3_tab_4"  class="tab_content" style="display:none">
+워 포 쒜이 스 쌍 띠 신   니 자오 따오 워   스 워 슈 위 니 <br />
+총 훼이 진 종 워 더 셩 밍   워 짜이 지우 주 셔우 종 더 안 시 <br />
+슈어 뿌 진 니 치 먀오 쭤 웨이   이 셩 니앤 르 주 워 야오 껀 쒜이 <br />
+워 띵 징 잔 양 니 롱 메이   쯔 요우 후어 짜이 니 우 진 언 띠앤 <br /><br />
+
+' Cause   You   are ,   You   are ,   You   are   my   freedom   <br />
+워 까오 쥐 니 밍   까오 쥐 니 밍 <br />
+Your   love ,   Your   love   Your   love 용 뿌 즈 시   Oh   oh   oh <br /><br />
+
+니 스 워 더 셩 밍   우 런 넝 취 따이 니 <br />
+니 만 쭈 워 쑤어 쉬   니 아이 스 팡 워 신 <br /><br />
+
+짜이 zui 헤이 안 쥐에 왕 스 커   니 띠 아이 루 밍 꾸앙 자오 셔 <br />
+션 띠 얼 쯔 라이 따오 스 지에   니 뚜안 카이 워 션 상 띠 쑤어 리앤 <br />
+스 상 이 치에 뚜 훼이 꾸어 취   워 즈 샹 야오 칸 지앤 니 롱 미앤 <br />
+워 커 왕 니 즈 이 청 취앤   즈 따오 니 꾸어 짜이 띠 루 짜이 티앤 <br /><br />
+
+' Cause   You   are ,   You   are ,   You   are   my   freedom <br />
+워 까오 쥐 니 밍 <br />
+ </div>
+
+</div>
